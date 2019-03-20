@@ -4,7 +4,9 @@ public class HolaMundo{
 
 	public static void main(String [] args){
 
-		solo estoy escribiendo pendejada y media
+		System.out.printl("Hola mundo");	
+		System.out.printl("Hola git tambien :)");
+	
 
 	}
 
